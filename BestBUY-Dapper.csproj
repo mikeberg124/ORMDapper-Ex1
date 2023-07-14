@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="obj\Debug\net7.0\appsettings.json" />
     <None Include="bin\Debug\net7.0\appsettings.json" />
   </ItemGroup>
